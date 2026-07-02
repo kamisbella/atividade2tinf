@@ -1,0 +1,76 @@
+.body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      background-color: blueviolet;
+}
+
+.avatar {
+    border-radius: 10000px;
+    width: 100px;
+}
+
+.tudo {
+    text-align: center;
+    justify-content: center;
+}
+
+.redes {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.insta {
+    width: 40px;
+}
+
+.zap {
+    width: 40px;
+}
+
+.ttk {
+    width: 40px;
+}
+
+.face {
+    width: 40px;
+}
+
+.botao {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 40px;
+    padding: 0px;
+    gap: 5px;
+    margin: 30px auto;
+}
+
+.card {
+      width: 200px;
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+.cinza{
+    text-align: center;
+}
+
+.p1{
+    flex-direction: column;
+    display: flex;
+    width: 20px;
+}
+
+.p2{
+    margin: 6px;
+    flex-direction: row-reverse;
+    display: flex;
+}
